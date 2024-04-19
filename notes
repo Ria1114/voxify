@@ -1,0 +1,18 @@
+VISHAL@DESKTOP-TA1SG4G MINGW64 /d/programing practice/projects/Voxify
+$ git clone https://github.com/Ria1114/voxify.git
+
+VISHAL@DESKTOP-TA1SG4G MINGW64 /d/programing practice/projects/Voxify
+$ cd voxify/
+
+VISHAL@DESKTOP-TA1SG4G MINGW64 /d/programing practice/projects/Voxify/voxify (main)
+$ git add .
+
+VISHAL@DESKTOP-TA1SG4G MINGW64 /d/programing practice/projects/Voxify/voxify (main)
+$ git commit -m "deploy"
+
+VISHAL@DESKTOP-TA1SG4G MINGW64 /d/programing practice/projects/Voxify/voxify (main)
+$ git push
+
+-- to make changes
+
+git push

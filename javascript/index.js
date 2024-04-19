@@ -42,3 +42,4 @@ playButton.addEventListener("click", () => {
     }
     isPlaying = !isPlaying;
 });
+
